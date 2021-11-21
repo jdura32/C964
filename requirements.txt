@@ -1,7 +1,6 @@
 pandas 
 matplotlib 
-sklearn 
-scatter_matrix 
+sklearn
 pyplot 
 train_test_split 
 cross_val_score 
