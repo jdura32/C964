@@ -1,16 +1,1 @@
-pandas 
-matplotlib 
-sklearn
-pyplot 
-train_test_split 
-cross_val_score 
-StratifiedKFold 
-classification_report 
-confusion_matrix 
-accuracy_score 
-LogisticRegression 
-DecisionTreeClassifier 
-KNeighborsClassifier 
-LinearDiscriminantAnalysis 
-GaussianNB 
-SVC
+pandas
